@@ -58,4 +58,20 @@ main h1 {
 #latest-products ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.food-item {
+  background-color: rgb(228, 206, 182);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.food-item img {
+  height: 240px;
+  width: 100%;
+  object-fit: cover;
 }
