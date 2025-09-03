@@ -78,6 +78,15 @@ a {
   align-items: center;
 }
 
+#side-drawer li {
+  margin: 1rem 0;
+}
+
+#side-drawer a {
+  color: rgb(253, 239, 213);
+  font-size: 2rem;
+}
+
 main h1 {
   text-align: center;
   color: rgb(238, 164, 80);
