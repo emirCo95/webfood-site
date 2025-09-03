@@ -24,6 +24,12 @@ a {
   text-transform: uppercase;
 }
 
+.menu-btn {
+}
+
+.menu-btn span {
+}
+
 #main-header ul {
   list-style: none;
   display: flex;
