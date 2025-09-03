@@ -25,9 +25,14 @@ a {
 }
 
 .menu-btn {
+  width: 3rem;
+  height: 3rem;
 }
 
 .menu-btn span {
+  width: 100%;
+  height: 3px;
+  background-color: white;
 }
 
 #main-header ul {
