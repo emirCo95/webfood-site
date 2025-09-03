@@ -58,7 +58,7 @@ main h1 {
 #latest-products ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 16px;
+  gap: 1rem;
   list-style: none;
   margin: 0;
   padding: 0;
