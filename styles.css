@@ -97,7 +97,7 @@ h2 {
   background-color: rgb(221, 134, 34);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 45rem) {
   #main-header nav {
     display: none;
   }
